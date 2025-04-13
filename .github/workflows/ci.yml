@@ -26,7 +26,7 @@ jobs:
       - name: Configure CMake
         run: |
           cmake -S . -B build \
-            -DCMAKE_PREFIX_PATH=${{ github.workspace }}/Qt/5.15.2/gcc_64 \
+            -DCMAKE_PREFIX_PATH=${{ github.workspace }}/Qt/6.7.1/gcc_64 \
             -DCMAKE_BUILD_TYPE=Release
 
       - name: Build
