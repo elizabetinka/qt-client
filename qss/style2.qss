@@ -1,0 +1,6 @@
+QLabel{ color: #FFFAB7; }
+QMainWindow { background-color: #5BBCFF; }
+QLineEdit { background-color: #FFFAB7;}
+QTextEdit { background-color: #FFFAB7;}
+QPushButton { background-color: #FFD1E3; border: 1px solid red; border-radius: 200px;}
+QComboBox { background-color: #FFD1E3; }

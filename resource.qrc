@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/translations">
+        <file alias="ru.qm">translations/helloworld_ru.qm</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file alias="style.qss">qss/style.css</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file alias="background">img/bacground.png</file>
+        <file alias="cupcake">img/cupcake.png</file>
+        <file alias="avatar">img/avatar.png</file>
+        <file alias="loading">img/loading.png</file>
+        <file alias="delete">img/delete.png</file>
+        <file alias="setting">img/setting.png</file>
+        <file alias="add">img/add.png</file>
+        <file alias="kiev">img/cakes/kiev.jpeg</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file alias="GreatVibes">fonts/GreatVibes-Regular.ttf</file>
+    </qresource>
+</RCC>

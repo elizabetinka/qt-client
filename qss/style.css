@@ -1,0 +1,12 @@
+QLineEdit { font-size: 14pt; padding: 5px; background-color: #d5d1cc ; selection-background-color: darkgray; border: 2px solid gray; border-radius: 15px; }
+QPushButton { font-size: 14pt; padding: 5px; background-color: #6c1b4f; border: 2px solid #451135; border-radius: 10px; }
+ClickableLabel {color: #979292; text-decoration: underline; font-size: 10pt;}
+#mainLabel {color: #451135;  font-size: 30pt; font-family: "Great Vibes", cursive; }
+#mainLabel2 {color: #451135;  font-size: 30pt; font-family: "Great Vibes", cursive; }
+QScrollArea {background: transparent; }
+#menu {background-color: #370d29;}
+QPushButton:hover {background-color: #370d29;}
+QPushButton:pressed {background-color: #533246;}
+#gridWidget {background: transparent;}
+/*#card { background-color: #451135; }*/
+#fromCommonExitLabel {color: #370d29; text-decoration: underline; font-size: 12pt;}
